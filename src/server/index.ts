@@ -12,7 +12,7 @@ app.use(morgan("tiny"));
 app.use(express.static("public"));
 
 RegisterRoutes(app);
-app.use('/api', (req, res) => res.sendStatus(404))
+app.use('/api', (req, res) => res.sendStatus(404));
 
 // Swagger Config
 app.use(
