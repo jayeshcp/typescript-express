@@ -1,3 +1,3 @@
 # TypeScript + Express + Swagger
 
-![Build](https://github.com/jayeshcp/typescript-express/actions/workflows/main.yml/badge.svg?branch=main)
+Build Status: [![CircleCI](https://dl.circleci.com/status-badge/img/gh/jayeshcp/typescript-express/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/jayeshcp/typescript-express/tree/main)
