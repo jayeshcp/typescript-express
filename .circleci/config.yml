@@ -20,7 +20,7 @@ jobs:
           paths:
             - .
       - store_artifacts:
-          path: /tmp/artifact-1
+          path: ~/project
           destination: artifact-file
 
 workflows:
