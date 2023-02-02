@@ -19,6 +19,9 @@ jobs:
           root: ~/project
           paths:
             - .
+      - store_artifacts:
+          path: /tmp/artifact-1
+          destination: artifact-file
 
 workflows:
   build:
